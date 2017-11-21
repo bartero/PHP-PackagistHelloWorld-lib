@@ -5,7 +5,7 @@ namespace Bartero;
 use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
 
-public class Config {
+class Config {
    public static function getLogger() {
       // create a log channel
       $log = new Logger('name');
