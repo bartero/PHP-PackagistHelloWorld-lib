@@ -1,0 +1,12 @@
+{
+   "name": "bartero/hello-world-lib-package",
+   "description": "My badass first lib package",
+   "require": {
+      "monolog/monolog": "1.*"
+   },
+   "autoload": {
+      "psr-4": {
+         "Bartero\\": "src/Bartero"
+      }
+   }
+}
