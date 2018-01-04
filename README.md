@@ -1,2 +1,2 @@
-# packagist-hello-world-lib
-This is my Hello World library package to be published pn the Packagist composer repo
+# Packagist Hello World (library)
+This is my first Hello World library package published on the Packagist repo
